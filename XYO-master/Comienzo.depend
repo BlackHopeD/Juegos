@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543858278 source:c:\users\crist\desktop\general\programacion\proyecto final\parte 2\comienzo\main.cpp
+	<iostream>
+	<locale.h>
+	<stdio.h>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
